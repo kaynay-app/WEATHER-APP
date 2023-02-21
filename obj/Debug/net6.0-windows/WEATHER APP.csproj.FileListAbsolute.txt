@@ -1,0 +1,23 @@
+C:\Users\kelem\source\repos\WEATHER APP\bin\Debug\net6.0-windows\WEATHER APP.exe
+C:\Users\kelem\source\repos\WEATHER APP\bin\Debug\net6.0-windows\WEATHER APP.deps.json
+C:\Users\kelem\source\repos\WEATHER APP\bin\Debug\net6.0-windows\WEATHER APP.runtimeconfig.json
+C:\Users\kelem\source\repos\WEATHER APP\bin\Debug\net6.0-windows\WEATHER APP.dll
+C:\Users\kelem\source\repos\WEATHER APP\bin\Debug\net6.0-windows\WEATHER APP.pdb
+C:\Users\kelem\source\repos\WEATHER APP\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\kelem\source\repos\WEATHER APP\obj\Debug\net6.0-windows\WEATHER APP.csproj.AssemblyReference.cache
+C:\Users\kelem\source\repos\WEATHER APP\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\kelem\source\repos\WEATHER APP\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kelem\source\repos\WEATHER APP\obj\Debug\net6.0-windows\WEATHER APP_MarkupCompile.cache
+C:\Users\kelem\source\repos\WEATHER APP\obj\Debug\net6.0-windows\WEATHER APP_MarkupCompile.lref
+C:\Users\kelem\source\repos\WEATHER APP\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\kelem\source\repos\WEATHER APP\obj\Debug\net6.0-windows\WEATHER APP.g.resources
+C:\Users\kelem\source\repos\WEATHER APP\obj\Debug\net6.0-windows\WEATHER APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelem\source\repos\WEATHER APP\obj\Debug\net6.0-windows\WEATHER APP.AssemblyInfoInputs.cache
+C:\Users\kelem\source\repos\WEATHER APP\obj\Debug\net6.0-windows\WEATHER APP.AssemblyInfo.cs
+C:\Users\kelem\source\repos\WEATHER APP\obj\Debug\net6.0-windows\WEATHER APP.csproj.CoreCompileInputs.cache
+C:\Users\kelem\source\repos\WEATHER APP\obj\Debug\net6.0-windows\WEATHER APP.csproj.CopyComplete
+C:\Users\kelem\source\repos\WEATHER APP\obj\Debug\net6.0-windows\WEATHER APP.dll
+C:\Users\kelem\source\repos\WEATHER APP\obj\Debug\net6.0-windows\refint\WEATHER APP.dll
+C:\Users\kelem\source\repos\WEATHER APP\obj\Debug\net6.0-windows\WEATHER APP.pdb
+C:\Users\kelem\source\repos\WEATHER APP\obj\Debug\net6.0-windows\WEATHER APP.genruntimeconfig.cache
+C:\Users\kelem\source\repos\WEATHER APP\obj\Debug\net6.0-windows\ref\WEATHER APP.dll
